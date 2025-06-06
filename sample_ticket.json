@@ -1,0 +1,12 @@
+{
+  "Customer_Age": 35,
+  "Customer_Gender": "Male",
+  "Product_Purchased": "Laptop",
+  "Ticket_Type": "Technical",
+  "Ticket_Status": "Closed",
+  "Ticket_Priority": "High",
+  "Ticket_Channel": "Email",
+  "Response_Delay": 12.5,
+  "Resolution_Delay": 48.0,
+  "Ticket_Description": "My laptop won’t start and shows error code 123."
+}
